@@ -1,0 +1,1 @@
+# Lista-de-sequ-ncias-e-opera-es-em-C
